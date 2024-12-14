@@ -5,7 +5,7 @@ Serviço responsável por operacionalizar o processo de pedidos, registrando os 
 <img src="assets/arquiteturafase04.jpg">
 
 ### Evidência sonar
-<img src="assets/sonar.png">
+<img src="assets/evidencia_sonar.png">
 
 ## Comandos para rodar os testes
 
